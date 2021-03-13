@@ -20,7 +20,7 @@
 ### Heroku
 
 1. Login to your Heroku account
-1. Create a new Heroku app, called `yourname-basic-api-server`
+1. Create a new Heroku app, called `yourname-basic-auth`
   1. Go to the deployment tab
   1. Choose "GitHub"
   1. Connect to your repository
