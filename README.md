@@ -36,7 +36,7 @@
 1. Create the files and folders required for the application
 1. Create the correct content in the files
 1. Test your server: `npm test`
-  1. You should see 100% of tests passing
+  1. You should see 100% of tests failing
 1. Start your server: `node index.js`
   1. Visit [http://localhost:3000/](http://localhost:3000/) in your browser to confirm that the server is visible
 
