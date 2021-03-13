@@ -1,5 +1,9 @@
 # Lab: Authentication
 
+## Author
+
+[Dar-Ci Calhoun](https://github.com/dcalhoun286)
+
 ## Links
 
 - [Pull request](https://github.com/dcalhoun286/basic-auth/pull/1)
